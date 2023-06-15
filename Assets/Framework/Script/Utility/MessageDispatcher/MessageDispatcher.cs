@@ -14,7 +14,6 @@ namespace Framework.Utility
             if (!isEventExist)
             {
                 _messages.Add(messageType, action);
-                Debug.Log($"Subscribe, Event: {_messages.Count}");
             }
             else
             {

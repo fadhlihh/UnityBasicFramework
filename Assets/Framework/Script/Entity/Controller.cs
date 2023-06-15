@@ -39,7 +39,6 @@ namespace Framework.Entity
         #region Event Dispatcher
         protected void StartListening(string eventName, Action action)
         {
-            Debug.Log($"StartListening {eventName}:{EventDispatcher.Instance._events.Count}");
             EventDispatcher.Instance.StartListening(eventName, action);
         }
 
@@ -98,7 +97,6 @@ namespace Framework.Entity
         #region Event Dispatcher
         protected void StartListening(string eventName, Action action)
         {
-            Debug.Log($"StartListening {eventName}:{EventDispatcher.Instance._events.Count}");
             EventDispatcher.Instance.StartListening(eventName, action);
         }
 
@@ -162,7 +160,6 @@ namespace Framework.Entity
         #region Event Dispatcher
         protected void StartListening(string eventName, Action action)
         {
-            Debug.Log($"StartListening {eventName}:{EventDispatcher.Instance._events.Count}");
             EventDispatcher.Instance.StartListening(eventName, action);
         }
 

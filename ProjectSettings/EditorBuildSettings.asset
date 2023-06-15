@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/ExampleChess/Scenes/Gameplay.unity
     guid: cf03e05f4e2b6a84facc2c87df147fd3
+  - enabled: 1
+    path: Assets/Pinball/Scene/PinballGame.unity
+    guid: e3c66976b59b9e9448347ece6fe29ed3
   m_configObjects: {}
