@@ -46,7 +46,6 @@ namespace Pinball.Module.SwitchItem
 
         private IEnumerator Blinking(float delayTime)
         {
-            Debug.Log("Blinking");
             yield return new WaitForSeconds(delayTime);
             _renderer.material = _onMaterial;
             yield return new WaitForSeconds(delayTime);
@@ -58,7 +57,6 @@ namespace Pinball.Module.SwitchItem
         {
             if (other.CompareTag("Ball"))
             {
-                Debug.Log("Ball Trigger");
                 SetIsOn(!_data.IsOn);
                 SendMessage<TriggerSwitchMessage>(new TriggerSwitchMessage(_data.IsOn));
             }

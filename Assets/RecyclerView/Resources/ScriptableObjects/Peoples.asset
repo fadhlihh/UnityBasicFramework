@@ -1,0 +1,215 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4f0ab4ea2358934dbcaec0f7ec01301, type: 3}
+  m_Name: Peoples
+  m_EditorClassIdentifier: 
+  Peoples:
+  - Id: 0
+    Name: Fadhli
+    Age: 24
+    Profession: Programmer
+  - Id: 1
+    Name: Sofiyantini
+    Age: 24
+    Profession: QA
+  - Id: 2
+    Name: Taufiq
+    Age: 22
+    Profession: Designer
+  - Id: 3
+    Name: Reza
+    Age: 35
+    Profession: IT Support
+  - Id: 4
+    Name: Wiki
+    Age: 48
+    Profession: Photographer
+  - Id: 5
+    Name: Cucu
+    Age: 55
+    Profession: Catering
+  - Id: 6
+    Name: Adam
+    Age: 28
+    Profession: QA
+  - Id: 7
+    Name: Idris
+    Age: 47
+    Profession: Nabi
+  - Id: 8
+    Name: Poni
+    Age: 29
+    Profession: Kucing
+  - Id: 9
+    Name: Groot
+    Age: 2
+    Profession: Pohon
+  - Id: 10
+    Name: Altair
+    Age: 24
+    Profession: Presiden
+  - Id: 11
+    Name: Abiyya
+    Age: 26
+    Profession: Aktris
+  - Id: 12
+    Name: Adiba
+    Age: 22
+    Profession: Penulis
+  - Id: 13
+    Name: Al-Wafiyya
+    Age: 21
+    Profession: Programmer
+  - Id: 14
+    Name: Schoeder
+    Age: 37
+    Profession: Penjahat
+  - Id: 15
+    Name: Adakami
+    Age: 29
+    Profession: Penjahat
+  - Id: 16
+    Name: Adapundi
+    Age: 17
+    Profession: Penipu
+  - Id: 17
+    Name: Jack
+    Age: 20
+    Profession: Petani
+  - Id: 18
+    Name: Jonny
+    Age: 14
+    Profession: Boneka
+  - Id: 19
+    Name: Sonny
+    Age: 29
+    Profession: Atlet
+  - Id: 20
+    Name: Sapi
+    Age: 7
+    Profession: Hewan
+  - Id: 21
+    Name: Iim
+    Age: 53
+    Profession: IT Consultant
+  - Id: 22
+    Name: Maman
+    Age: 27
+    Profession: Pembalap
+  - Id: 23
+    Name: Pedro
+    Age: 18
+    Profession: Supir
+  - Id: 24
+    Name: Geralt
+    Age: 80
+    Profession: Pembunuh
+  - Id: 25
+    Name: Dava
+    Age: 25
+    Profession: Gepreker
+  - Id: 26
+    Name: Aksan
+    Age: 26
+    Profession: Nelayan
+  - Id: 27
+    Name: Sandy
+    Age: 32
+    Profession: Scientist
+  - Id: 28
+    Name: Dihyan
+    Age: 24
+    Profession: Seniman
+  - Id: 29
+    Name: Imam
+    Age: 24
+    Profession: Dokter
+  - Id: 30
+    Name: Rolan
+    Age: 40
+    Profession: Guru
+  - Id: 31
+    Name: Erik
+    Age: 32
+    Profession: Marketing
+  - Id: 32
+    Name: Ardin
+    Age: 24
+    Profession: Pilot
+  - Id: 33
+    Name: Radhi
+    Age: 24
+    Profession: Web Master
+  - Id: 34
+    Name: Garda
+    Age: 24
+    Profession: Inspector
+  - Id: 35
+    Name: Yaman
+    Age: 22
+    Profession: Backend
+  - Id: 36
+    Name: Awy
+    Age: 24
+    Profession: Frontend
+  - Id: 37
+    Name: Thomas
+    Age: 27
+    Profession: Masinis
+  - Id: 38
+    Name: Susi
+    Age: 60
+    Profession: Menteri
+  - Id: 39
+    Name: Ezio
+    Age: 60
+    Profession: Assassin
+  - Id: 40
+    Name: Nanang
+    Age: 68
+    Profession: Tentara
+  - Id: 41
+    Name: Doni
+    Age: 24
+    Profession: Pengangguran
+  - Id: 42
+    Name: Lulu
+    Age: 24
+    Profession: Penulis
+  - Id: 43
+    Name: Dustin
+    Age: 34
+    Profession: Pelawak
+  - Id: 44
+    Name: Vincent
+    Age: 43
+    Profession: Penyanyi
+  - Id: 45
+    Name: Arjuna
+    Age: 45
+    Profession: Chef
+  - Id: 46
+    Name: Adoy
+    Age: 50
+    Profession: Aneh
+  - Id: 47
+    Name: Phelps
+    Age: 36
+    Profession: Polisi
+  - Id: 48
+    Name: Iko
+    Age: 36
+    Profession: Aktor
+  - Id: 49
+    Name: Kris
+    Age: 38
+    Profession: Penyanyi
